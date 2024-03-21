@@ -1,6 +1,2 @@
-# Rest API implemenattion using Flask micro web framwork
-#requirmnt
+# Rest API implementation using Flask micro web framwork
 
-sqlite
-flask
-jwt
